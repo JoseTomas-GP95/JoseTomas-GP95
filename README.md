@@ -1,7 +1,7 @@
   <img align="center" src="https://stackify.com/wp-content/uploads/2017/08/Javascript-vs-Typescript.jpg" height="300px" width="100%">
 
 <div align="center">
-  <h1 align="center"><img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />Hola Mundo!</h1>
+  <h1 align="center"><img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" /><Hola Mundo!/></h1>
 </div>
 
   <img align="right" src="https://i.imgur.com/8MupZHY.gif" width="40%" />
