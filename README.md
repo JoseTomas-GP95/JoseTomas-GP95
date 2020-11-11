@@ -49,6 +49,7 @@ console.log(["🥚", "🐣", "🐥", "🐔"].sort())
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JoseTomas-GP95&repo=veterinaria&theme=prussian)](https://github.com/JoseTomas-GP95/veterinaria)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JoseTomas-GP95&repo=veterinaria&theme=prussian)](https://github.com/JoseTomas-GP95/veterinaria)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JoseTomas-GP95&repo=veterinaria&theme=prussian)](https://github.com/JoseTomas-GP95/veterinaria)
+[![ReadMe Card](https://img.shields.io/badge/-Codewars-222?style=flat-square&logo=Codewars&logoColor=red)](https://www.codewars.com/users/JoseTomas-GP95)
 
 </div>
 <br>
