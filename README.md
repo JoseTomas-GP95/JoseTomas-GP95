@@ -49,7 +49,6 @@ console.log(["🥚", "🐣", "🐥", "🐔"].sort())
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JoseTomas-GP95&repo=veterinaria&theme=prussian)](https://github.com/JoseTomas-GP95/veterinaria)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JoseTomas-GP95&repo=veterinaria&theme=prussian)](https://github.com/JoseTomas-GP95/veterinaria)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JoseTomas-GP95&repo=veterinaria&theme=prussian)](https://github.com/JoseTomas-GP95/veterinaria)
-[![ReadMe Card](https://img.shields.io/badge/-Codewars-222?style=flat-square&logo=Codewars&logoColor=red)](https://www.codewars.com/users/JoseTomas-GP95)
 
 </div>
 <br>
@@ -58,8 +57,8 @@ console.log(["🥚", "🐣", "🐥", "🐔"].sort())
 <a href="https://app.netlify.com/teams/josetomas-gp95/sites" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Proyectos-Mi Netlify-blue?style=flat&logo=google-chrome"></a>
 <a href="mailto:tomas.didimo1407@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-tomas.didimo1407@gmail.com-blue?style=flat&logo=gmail"></a>
 <a href="https://www.linkedin.com/in/jos%C3%A9-gonz%C3%A1lez-padr%C3%B3n-6251a316a/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jose Gonzalez-blue?style=flat&logo=linkedin"></a>
+<a href="https://www.codewars.com/users/JoseTomas-GP95/" target="_blank"><img alt="Codewars" src="https://img.shields.io/badge/CodeWars-Jose Gonzalez-blue?style=flat&logo=Codewars&logoColor=red"></a>
 </p>
-
 <cite>
   <i>
     "La experiencia no tiene valor ético alguno, es simplemente el nombre que damos a nuestros errores"
