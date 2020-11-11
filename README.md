@@ -58,3 +58,13 @@ console.log(["🥚", "🐣", "🐥", "🐔"].sort())
 <a href="mailto:tomas.didimo1407@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-tomas.didimo1407@gmail.com-blue?style=flat&logo=gmail"></a>
 <a href="https://www.linkedin.com/in/jos%C3%A9-gonz%C3%A1lez-padr%C3%B3n-6251a316a/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jose Gonzalez-blue?style=flat&logo=linkedin"></a>
 </p>
+
+<cite>
+  <i>
+    "La experiencia no tiene valor ético alguno, es simplemente el nombre que damos a nuestros errores"
+  <i>
+</cite>
+<br/>
+<cite>
+  <b>Oscar Wilde.</b>
+</cite>
