@@ -9,12 +9,12 @@
 ## Mi nombre es Jose Tomás
 
 <div align="left">
-  <h3>Soy un venezolano viviendo en Argentina <br>
+  <h3>Soy un venezolano viviendo en Argentina 🇦🇷🇻🇪<br>
   Un par de cosas sobre mi:
   </h3>
 
 - 😄 Tengo 25 años
-- :muscle: Me gusta Desarrollar con React
+- 🖥️ Me gusta Desarrollar con React
 - 🌱 Disfruto aprender nuevas tecnologias
 - Me agrada trabajar en equipo
 - 🤔 He aprendido a amar el problema y no la solucion
