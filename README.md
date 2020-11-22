@@ -45,7 +45,7 @@ console.log(["🥚", "🐣", "🐥", "🐔"].sort())
 </div>
 <div align=center>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JoseTomas-GP95&repo=veterinaria&theme=prussian)](https://github.com/JoseTomas-GP95/veterinaria)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JoseTomas-GP95&repo=Proyecto-MERN&theme=prussian)](https://github.com/JoseTomas-GP95/Proyecto-MERN)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JoseTomas-GP95&repo=veterinaria&theme=prussian)](https://github.com/JoseTomas-GP95/veterinaria)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JoseTomas-GP95&repo=veterinaria&theme=prussian)](https://github.com/JoseTomas-GP95/veterinaria)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JoseTomas-GP95&repo=veterinaria&theme=prussian)](https://github.com/JoseTomas-GP95/veterinaria)
